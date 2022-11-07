@@ -1,3 +1,5 @@
+*.rec
+
 # Prerequisites
 *.d
 
@@ -6,6 +8,7 @@
 *.ko
 *.obj
 *.elf
+*.amx
 
 # Linker output
 *.ilk
